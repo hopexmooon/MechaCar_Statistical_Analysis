@@ -40,7 +40,11 @@ Include screenshots of the t-test to support your summary.
 
 ![Screen Shot 2022-10-11 at 8 29 37 PM](https://user-images.githubusercontent.com/108151049/195222231-3231def9-12e7-4ebe-bd5c-28b7b0e3e2b8.png)
 
+![Screen Shot 2022-10-11 at 8 30 48 PM](https://user-images.githubusercontent.com/108151049/195222330-d65b18b3-749e-43ac-b128-0e8709d3fe0a.png)
 
+![Screen Shot 2022-10-11 at 8 31 21 PM](https://user-images.githubusercontent.com/108151049/195222390-1bc9e6be-b17d-403d-8877-ddc6aa35d6f6.png)
+
+![Screen Shot 2022-10-11 at 8 31 43 PM](https://user-images.githubusercontent.com/108151049/195222430-f7497b7e-7245-4741-b9ae-cc559c528bfe.png)
 
 
 ## Study Design: MechaCar vs Competition
