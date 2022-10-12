@@ -34,8 +34,10 @@ When reviewing the overall results, the variance of the suspension coils is 62.3
 ## T-Tests on Suspension Coils
 Deliverable 3
 
-then briefly summarize your interpretation and findings for the t-test results. 
-Include screenshots of the t-test to support your summary.
+We created 4 t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 PSI. The first t-test compared all manufactory lots against the mean PSI of the population. The p-value came out to be 0.06 which is slightly higher than the significance level of 0.05. This means we are can't conclude that a significant difference exists. 
+
+
+The second and third t-test performed compared Lot 1 and Lot 2 MechaCar's to the population. Respectfully, Lot 1 and Lot 2 had a p-value higher than 0.05, 1 and 0.61. This again means there is no statistical significance. However, Lot 3 has a p-value of 0.042 meaning there is a statistical difference from the population mean of 1,500 PSI. 
 
 ![Screen Shot 2022-10-11 at 8 29 37 PM](https://user-images.githubusercontent.com/108151049/195222231-3231def9-12e7-4ebe-bd5c-28b7b0e3e2b8.png)
 
