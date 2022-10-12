@@ -38,8 +38,7 @@ Deliverable 3
 then briefly summarize your interpretation and findings for the t-test results. 
 Include screenshots of the t-test to support your summary.
 
-<img width="464" alt="Screen Shot 2022-10-11 at 7 29 13 PM" src="https://user-images.githubusercontent.com/108151049/195216736-31126c44-6ede-475e-ad10-02b6ac6cc984.png">
-
+![Screen Shot 2022-10-11 at 8 29 37 PM](https://user-images.githubusercontent.com/108151049/195222231-3231def9-12e7-4ebe-bd5c-28b7b0e3e2b8.png)
 
 
 
