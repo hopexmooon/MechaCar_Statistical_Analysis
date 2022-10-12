@@ -4,11 +4,15 @@
 Deliverable 1
 
 
-write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- The variables that provided a non-random amount of variance to the mpg values are vehicle length*** and ground clearance*** because they have a signficant impact on the predicted MPG. The vehicle weight, spoiler angle, and AWD have p-Values that indicate a random amount of variance.
+
+Is the slope of the linear model considered to be zero? 
+- If there is a significant linear relationship between the independent variable X and dependant variable Y, the slope will not equal zero. To determine this we find the p-Value of the linear model which is reported to be 5.35 x 10 ^-11. This is below the signficance level which means we are rejecting the null hypothesis. By rejecting the null hypyothesis we are determining that there is a significant linear relationship between the X and Y variable which makes the slope not equal to zero. 
+
+Does this linear model predict mpg of MechaCar prototypes effectively? 
+- The linear model reported an r-squared value of .68, which means that approximately there is a 32% variance from the model. This is not very effective because a large demographic of the population we are tested can't be explained. 
 
 <img width="784" alt="Screen Shot 2022-10-10 at 11 39 09 PM" src="https://user-images.githubusercontent.com/108151049/194991828-3a29b1d7-aedb-4b05-b40f-4404885227cd.png">
 
@@ -51,12 +55,18 @@ The second and third t-test performed compared Lot 1 and Lot 2 MechaCar's to the
 
 ## Study Design: MechaCar vs Competition
 Deliverable 4
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. 
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
+What metric or metrics are you going to test? 
+- Because gas prices are always fluctuating customers would greatly appreciate comparing MechaCar's highway fuel efficiency to their competitors. This is continuous numerical data we are comparing. We have two options of testing, simple linear regression or multiple linear regression. 
 
-What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+- The null hypothesis would be that there is no significant difference between MechaCar and its competitors. While the alternative hypothesis would be that there is a difference between the two groups. We want to prove that there is a statistical difference in fuel efficiency between MechaCar's and their competators. Hopefully, the results show that MechaCar's have a higher highway fuel efficiency.
 
+
+ What statistical test would you use to test the hypothesis? And why? 
+- We would use a simple linear regression and a one sample t-test to test the hypothesis and determin if MechCar is statistically different from the population mean (all the competitors). 
+
+
+What data is needed to run the statistical test?
+- We would need to collect the highway fuel efficiency of the MechaCar and as many competitors as possible. We would need to see a statistical significant difference between the MechaCar and its competators by comparing the reported highway fuel efficiency. The larger the sampling size the better. 
