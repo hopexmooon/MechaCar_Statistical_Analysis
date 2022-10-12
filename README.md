@@ -3,13 +3,14 @@
 ## Linear Regression to Predict MPG
 Deliverable 1
 
-<img width="784" alt="Screen Shot 2022-10-10 at 11 39 09 PM" src="https://user-images.githubusercontent.com/108151049/194991828-3a29b1d7-aedb-4b05-b40f-4404885227cd.png">
 
 write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+<img width="784" alt="Screen Shot 2022-10-10 at 11 39 09 PM" src="https://user-images.githubusercontent.com/108151049/194991828-3a29b1d7-aedb-4b05-b40f-4404885227cd.png">
 
 
 
